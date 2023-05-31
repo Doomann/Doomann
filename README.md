@@ -10,3 +10,5 @@
                                                                         
                                                               
                                                               
+
+In this example, the ANSI escape codes `\[\033[1;31m\]` and `\[\033[0m\]` set the text color to bright red and reset it back to the default color, respectively. You can modify these escape codes to change the color of your ASCII art.
